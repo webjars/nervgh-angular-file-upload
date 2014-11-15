@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>nervgh-angular-file-upload</artifactId>
-    <version>1.1.5-SNAPSHOT</version>
+    <version>1.1.5</version>
     <name>Angular File Upload (nervgh)</name>
     <description>WebJar for Angular File Upload</description>
     <url>http://webjars.org</url>
@@ -53,7 +53,7 @@
         <url>http://github.com/webjars/nervgh-angular-file-upload</url>
         <connection>scm:git:https://github.com/webjars/nervgh-angular-file-upload.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/nervgh-angular-file-upload.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>nervgh-angular-file-upload-1.1.5</tag>
     </scm>
     
     <dependencies>
